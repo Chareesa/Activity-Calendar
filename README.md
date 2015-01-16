@@ -8,7 +8,7 @@ Provides people with an easy way to aggregate information about local political 
 ###View the app:
 The app is hosted on Heroku, click here to open: https://involve.herokuapp.com/#/login  
 Sign in with:  
-**Username**: test@test.com
+**Username**: test@test.com  
 **Password**: Tester1
 
 ###Background:
