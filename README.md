@@ -2,13 +2,17 @@
 
 [![Build Status](https://travis-ci.org/Involve-Seattle/Activity-Calendar.svg?branch=dev)](https://travis-ci.org/Involve-Seattle/Activity-Calendar)
 
-A Project for Code Fellows by Jacob Shafer, Chareesa Graham, Stephanie Lingwood, Sheyna Watkins and Henok Kidane
+###Description:
+Provides people with an easy way to aggregate information about local political meetings and to share that information with friends.
+
+###View the app:
+The app is hosted on Heroku, click here to open: https://involve.herokuapp.com/#/login  
+Sign in with:  
+*Username*: test@test.com  
+*Password*: Tester1
 
 ###Background:
 A lot of people are often uninformed about politics. Especially local politics: the decisions that affect them most.
-
-###Objective/Goal:
-We want to provide people an easy way to aggregate information about local political meetings and to share that information with friends.
 
 ###Personas:
 * 30-somethings
