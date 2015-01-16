@@ -6,7 +6,7 @@
 Provides people with an easy way to aggregate information about local political meetings and to share that information with friends.
 
 ###View the app:
-The app is hosted on Heroku, click here to open: LINKLINKLINKLINK!!!!!!!!!!!
+The app is hosted on Heroku, click here to open: https://involve.herokuapp.com/#/login
 Sign in with:
 **Username**: test@test.com
 **Password**: Tester1
