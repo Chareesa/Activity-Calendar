@@ -19,7 +19,7 @@ A lot of people are often uninformed about politics. Especially local politics: 
 * homeowners
 * parents whose children are in local schools
 
-All people have stake in political matters but we have chosen to start focusing on these groups because we believe that people who are homeowners and/or parents of school children have a new awareness of their stake in their community. They would also be more open to seeking this information on their phones.
+All people have a stake in political matters but we have chosen to start focusing on these groups because we believe that people who are homeowners and/or parents of school children have a new awareness of their stake in their community. They would also be more open to seeking this information on their phones.
 
 ###MVP GOALS
 We know we cannot reach the nation from the get-go so we are starting with just one region: Seattle. We have added meeting and event information from the Seattle City Council and we can expand to include more agencies and more cities. We want to make the app the best it can be for one region before we progress to other cities.
