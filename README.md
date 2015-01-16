@@ -7,7 +7,7 @@ Involve provides people with an easy way to aggregate information about local po
 
 ###View the app:
 The app is hosted on Heroku, click here to open: https://involve.herokuapp.com/#/login  
-Sign in with:  
+Sign up or sign in with:  
 *Username*: test@test.com  
 *Password*: Tester1
 
